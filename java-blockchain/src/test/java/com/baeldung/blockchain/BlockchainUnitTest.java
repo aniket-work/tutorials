@@ -1,4 +1,4 @@
-package com.baeldung.blockchain;
+package com.baeldung.deepshallowcopy;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
